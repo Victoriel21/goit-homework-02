@@ -139,6 +139,7 @@ header {
   letter-spacing: 0.02em;
   color: var(--title-text-color);
 }
+
 .team-section {
   background: var(--second-contrast-color);
 }
