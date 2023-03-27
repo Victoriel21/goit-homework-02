@@ -48,6 +48,7 @@ header {
   color: var(--logo-button-text);
 }
 .logo-part {
+  font-family: "Releway", sans-serif;
   color: var(--title-text-color);
 }
 .menu-link {
